@@ -28,8 +28,9 @@ options:
 
 ## Example
 ```
-python txtrndr.py --dest output.png --charset chars_en.txt ./example/earth_publicdomain.jpg  
+python txtrndr.py --dest output.png ./example/earth_publicdomain.jpg  
 ```
+![](https://github.com/atparsec/txtrndr/blob/main/example/earth_publicdomain_xcnvs.jpg)
 
 ## Charsets
 View the `charsets` directory for some example charsets, and for instructions on how to create your own.
